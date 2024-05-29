@@ -1,0 +1,11 @@
+numpy
+pytorch
+datasets
+transformers
+ipykernel
+ipywidgets
+evaluate
+wikipedia-api
+soundfile
+librosa
+accelerate
